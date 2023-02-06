@@ -87,6 +87,8 @@ new Duck("katie duck", "./odd_ducks/jenny duck.jpg");
 new Duck("vera duck", "./odd_ducks/vera duck.jpg");
 new Duck("lovely duck", "./odd_ducks/lovely duck.jpg");
 new Duck("cutiest duck", "./odd_ducks/cutiest duck.jpg");
+new Duck("whitish duck", "./odd_ducks/whitish duck.jpg");
+new Duck("twinnie duck", "./odd_ducks/twinnie duck.jpg");
 
 renderDucks();
 
